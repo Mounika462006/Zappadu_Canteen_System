@@ -10,7 +10,7 @@ import { dbAll } from '../db.js';
 // 0: South Indian, 1: North Indian, 2: Chinese, 3: Snacks, 4: Beverages, 5: Rice, 6: Breads
 // 7: Price Bracket (0 to 1), 8: Spicy Profile, 9: Sweet Profile, 10: Healthy Profile
 const FEATURE_COUNT = 11;
-
+    
 /**
  * Encodes a menu item into a numerical feature vector.
  */
