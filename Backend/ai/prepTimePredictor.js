@@ -10,7 +10,7 @@ let bias = 1.5;
 let rSquared = 0.0;
 let trainingHistory = [];
 
-/**
+/**.     
  * Generates synthetic historical order data for training.
  * Mimics real canteen dynamics with natural variance (noise).
  */
