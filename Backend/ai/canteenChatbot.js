@@ -3,7 +3,7 @@
  * Method: Rule-Based Natural Language Processing, Keyword Extraction, and Constraint Parsing.
  * Target: Parse natural language queries and return helpful recommendations, filters, or cart action items.
  */
-
+   
 import { dbAll } from '../db.js';
 import { getRecommendations } from './foodRecommender.js';
 
